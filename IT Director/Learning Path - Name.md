@@ -11,13 +11,13 @@ Describe the Learning Path here. Also place this description and a link to this 
 
 | Objective |	Concept	| Resource | Technologies | Level | Pre-Requisites 
 | --- |	---	| --- | ---  | ---  | --- 
-| Objective Name (Once per Objective) | Topic Name (Once per topic) | [Resource Description](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
-|                                     |                             | [Resource Description](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
-|                                     | Topic Name (Once per topic) | [Resource Description](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
-| Objective Name (Once per Objective) | Topic Name (Once per topic) | [Resource Description](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
+| Objective Name (Once per Objective) | Topic Name (Once per topic) | [Thsi video...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
+|                                     |                             | [This link...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
+|                                     | Topic Name (Once per topic) | [This class...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
+| Objective Name (Once per Objective) | Topic Name (Once per topic) | [This other...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
 
 
-You can also click one ofthe Links below to see other Lesson Paths.
+You can also click one of the Links below to see other Lesson Paths.
 
 - [Executive Sponsor](https://github.com/BuckWoody/LearningPaths/tree/master/Executive%20Sponsor)
 - [IT Director](https://github.com/BuckWoody/LearningPaths/tree/master/IT%20Director)
