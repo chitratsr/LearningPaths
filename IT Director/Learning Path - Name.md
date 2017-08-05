@@ -11,7 +11,7 @@ Describe the Learning Path here. Also place this description and a link to this 
 
 | Objective |	Concept	| Resource | Technologies | Level | Pre-Requisites 
 | --- |	---	| --- | ---  | ---  | --- 
-| Objective Name (Once per Objective) | Topic Name (Once per topic) | [Thsi video...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
+| Objective Name (Once per Objective) | Topic Name (Once per topic) | [This video...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
 |                                     |                             | [This link...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
 |                                     | Topic Name (Once per topic) | [This class...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
 | Objective Name (Once per Objective) | Topic Name (Once per topic) | [This other...](http://microsoft.com) | Technologies listed here | Beginner, Intermediate, Experienced, Highly Experienced | Describe Pre-Reqs here
