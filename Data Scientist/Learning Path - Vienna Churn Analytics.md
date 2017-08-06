@@ -1,4 +1,4 @@
-# Learning Path - Customer Churn Prediction using Vienna
+d# Learning Path - Customer Churn Prediction using Vienna
 
 ## Audience: Data Scientist, Developer
 ## Type: Solution
@@ -11,7 +11,7 @@ The aim of this solution is to demonstrate predictive churn analytics using Vien
 
 | Objective |	Concept	| Technologies | Level | Pre-Requisites | Deliverable Date
 | --- |	---	| --- | ---  | ---  | --- 
-| Perform Data Preparation | Ingest, profile and transform user information and activity | Vienna | Intermediate | Python (including external libraries) | Aug 18, 2017
+| Perform data preparation | Ingest, profile and transform user information and activity | Vienna | Intermediate | Python (including external libraries) | Aug 18, 2017
 | Build churn models | Develop regression and tree based classifiers for predicting churn | Vienna | Intermediate | Python (including external libraries) | Aug 25, 2017 
 | Compare churn models | Evaluate different classifiers for predicting churn | Vienna | Intermediate | Python (including external libraries) | Aug 30, 2017
 | Operationalization and consumption of churn models to prevent customer churn| Publish and consume predictive models | Vienna, Azure CLI , Azure Machine Learning CLI component | Intermediate | Python (including external libraries) | Sep 08, 2017
