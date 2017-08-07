@@ -1,6 +1,6 @@
 # Learning Path - Customer Churn Prediction using Vienna
 
-## Audience: Data Scientist, Developer
+## Audience: Data Scientist, Developer, Architect
 ## Type: Solution
 
 ### Summary
