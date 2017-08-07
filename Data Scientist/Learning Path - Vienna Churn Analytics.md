@@ -11,9 +11,9 @@ The aim of this solution is to demonstrate predictive churn analytics using Vien
 
 | Objective |	Concept	| Technologies | Level | Pre-Requisites | Ignite Deliverable
 | --- |	---	| --- | ---  | ---  | --- 
-| Data preparation: Ingestion | Perform ingestion of user information and activity data using datasource wizard. Modify .dprep for performing customization of data prepreation steps.| Vienna | Intermediate | Python | Tutorial
-| Data preparation: Data Cleaning and Merging | Using custom scripts functionality in the datasource wizard, perform deduping, resolve missing values and join datasets using Transforms feature of the datasource wizard | Vienna | Intermediate | Python | Tutorial
-| Data preparation: Churn Labeling | Add column to perform label dataset (churners/non-churners) using either code snippet or GUI features of the datasource wizard | Vienna | Intermediate | Python | Tutorial
+| Data Preparation: Ingestion | Perform ingestion of user information and activity data using datasource wizard. Modify .dprep for performing customization of data prepreation steps.| Vienna | Intermediate | Python | Tutorial
+| Data Preparation: Data Cleaning and Merging | Using custom scripts functionality in the datasource wizard, perform deduping, resolve missing values and join datasets using Transforms feature of the datasource wizard | Vienna | Intermediate | Python | Tutorial
+| Data Preparation: Churn Labeling | Add column to perform label dataset (churners/non-churners) using either code snippet or GUI features of the datasource wizard | Vienna | Intermediate | Python | Tutorial
 | Data Preparation: Feature Engineering | Generate derived features using 'Derive column by example' in the wizard or code snippets as scripts | Vienna | Intermediate | Python | Tutorial
 | Experimentation and Model Building: Churn Classification | Integrate third-party libraries (such as scikit-learn and azureml) to develop regression and tree based classifiers for predicting churn | Vienna | Intermediate | Python (including external libraries) | Tutorial
 | Experimentation and Model Building: Parameter Sweeps for Churn Classification | Perform parameter sweeps by triggering the execution from the previous step to identify "best model" | Vienna | Intermediate | Python | Tutorial
