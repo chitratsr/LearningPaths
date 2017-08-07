@@ -11,9 +11,9 @@ The aim of this solution is to demonstrate predictive churn analytics using Vien
 
 | Objective |	Concept	| Technologies | Level | Pre-Requisites | Ignite Deliverable
 | --- |	---	| --- | ---  | ---  | --- 
-| Data preparation | Ingest, profile and transform user information and activity | Vienna | Intermediate | Python | Tutorial
-| - Ingestion | Perform ingestion using datasource wizard. Modify .dprep for performing customization of data prepreation steps.| Vienna | Intermediate | Python (including external libraries) | Tutorial
-| - Data Cleaning and Merging | Using custom scripts functionality in the datasource wizard, perform deduping and resolve missing values   | Vienna | Intermediate | Python | Tutorial
+| Data preparation: Ingestion | Perform ingestion of user information and activity data using datasource wizard. Modify .dprep for performing customization of data prepreation steps.| Vienna | Intermediate | Python (including external libraries) | Tutorial
+| Data preparation: Data Cleaning and Merging | Using custom scripts functionality in the datasource wizard, perform deduping and resolve missing values | Vienna | Intermediate | Python | Tutorial
+| Data preparation: Churn Labeling | Add column to perform label dataset (churners/non-churners) using either code snippet or GUI features of the datasource wizard  | Vienna | Intermediate | Python | Tutorial
 | - Profile data | Ingestion using datasource wizard | Vienna | Intermediate | Python (including external libraries) | Tutorial
 | Build churn models | Develop regression and tree based classifiers for predicting churn | Vienna | Intermediate | Python (including external libraries) | Tutorial
 | Compare churn models | Evaluate different classifiers for predicting churn | Vienna | Intermediate | Python (including external libraries) | Tutorial
